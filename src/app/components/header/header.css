@@ -1,0 +1,22 @@
+.navbar {
+  background-color: #212529 !important;
+}
+
+.navbar-brand {
+  color: #f8f9fa !important;
+  font-weight: 500;
+  text-transform: uppercase;
+}
+
+.navbar-brand:hover {
+  color: #0d6efd !important;
+}
+
+.nav-link {
+  color: #bbbbbb !important;
+  transition: color 0.3s ease;
+}
+
+.nav-link:hover,.nav-link.active {
+  color: #ffffff !important;
+}
