@@ -37,7 +37,7 @@
 
 .contact-section input:focus,
 .contact-section textarea:focus {
-  border-color: #28a745; /* Color del borde al enfocar */
+  border-color: #28a745;
   box-shadow: 0 0 8px rgba(40, 167, 69, 0.3);
   outline: none;
 }

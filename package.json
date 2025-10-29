@@ -7,7 +7,7 @@
     "build": "ng build",
     "test": "ng test",
     "e2e": "ng e2e",
-    "deploy": "ng build --base-href \"https://github.com/Kevin23221/Pagina-turismo.git\" && npx angular-cli-ghpages --dir=dist/TechStudio"
+    "deploy": "ng build --base-href \"https://github.com/Kevin23221/Pagina-turismo.git\" && npx angular-cli-ghpages --dir=dist/automovil"
   },
   "prettier": {
     "printWidth": 100,
